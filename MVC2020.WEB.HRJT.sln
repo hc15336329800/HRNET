@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2020.WEB.Excel", "MVC2020.WEB.Excel\MVC2020.WEB.Excel.csproj", "{3E51376D-1601-43C7-9D44-D75DB3234028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2020.Excal.Common", "MVC2020.Excal.Common\MVC2020.Excal.Common.csproj", "{1B5B8BEA-C7AA-4B1A-B4FC-D08488381A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2020.Excel.DataContext", "MVC2020.Excel.DataContext\MVC2020.Excel.DataContext.csproj", "{95E17EC1-28EF-444A-AFE8-090BA5A2C0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2020.Excel.Server", "MVC2020.Excel.Server\MVC2020.Excel.Server.csproj", "{669D9AEF-2358-450C-A345-80EBDDB81044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2020.Excel.Model", "MVC2020.Model\MVC2020.Excel.Model.csproj", "{D418E4C7-5CB7-4DE3-800B-B9165DB978AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CC2C806-4BD1-42B1-A803-26D1942E7ECC}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\zhangguorenmi\Desktop\站点旧该新\404\404.html = C:\Users\zhangguorenmi\Desktop\站点旧该新\404\404.html
+		【排错】Datetimepicker 时间选择框.txt = 【排错】Datetimepicker 时间选择框.txt
+		发布网站.txt = 发布网站.txt
+		C:\Users\zhangguorenmi\Desktop\权限这块8.png = C:\Users\zhangguorenmi\Desktop\权限这块8.png
+		磅房新项目进度.html = 磅房新项目进度.html
+		站点新项目.txt = 站点新项目.txt
+		进度条.txt = 进度条.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E51376D-1601-43C7-9D44-D75DB3234028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E51376D-1601-43C7-9D44-D75DB3234028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E51376D-1601-43C7-9D44-D75DB3234028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E51376D-1601-43C7-9D44-D75DB3234028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5B8BEA-C7AA-4B1A-B4FC-D08488381A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5B8BEA-C7AA-4B1A-B4FC-D08488381A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5B8BEA-C7AA-4B1A-B4FC-D08488381A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5B8BEA-C7AA-4B1A-B4FC-D08488381A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E17EC1-28EF-444A-AFE8-090BA5A2C0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E17EC1-28EF-444A-AFE8-090BA5A2C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E17EC1-28EF-444A-AFE8-090BA5A2C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E17EC1-28EF-444A-AFE8-090BA5A2C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669D9AEF-2358-450C-A345-80EBDDB81044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669D9AEF-2358-450C-A345-80EBDDB81044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669D9AEF-2358-450C-A345-80EBDDB81044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669D9AEF-2358-450C-A345-80EBDDB81044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D418E4C7-5CB7-4DE3-800B-B9165DB978AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D418E4C7-5CB7-4DE3-800B-B9165DB978AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D418E4C7-5CB7-4DE3-800B-B9165DB978AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D418E4C7-5CB7-4DE3-800B-B9165DB978AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F0B4A6-4933-44F9-B7BB-DE5D962F6195}
+	EndGlobalSection
+EndGlobal

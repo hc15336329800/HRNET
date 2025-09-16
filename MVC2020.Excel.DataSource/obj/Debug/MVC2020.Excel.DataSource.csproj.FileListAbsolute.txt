@@ -1,0 +1,16 @@
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\MVC2020.Excel.DataSource.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\MVC2020.Excel.DataSource.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.pdb
+E:\GIT-TortoiseGit\11\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\MVC2020.Excel.DataSource.dll
+E:\GIT-TortoiseGit\11\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\MVC2020.Excel.DataSource.pdb
+E:\GIT-TortoiseGit\11\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\EntityFramework.dll
+E:\GIT-TortoiseGit\11\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.csprojResolveAssemblyReference.cache
+E:\GIT-TortoiseGit\11\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.dll
+E:\GIT-TortoiseGit\11\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\MVC2020.Excel.DataSource.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\MVC2020.Excel.DataSource.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\bin\Debug\EntityFramework.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataSource\obj\Debug\MVC2020.Excel.DataSource.csprojResolveAssemblyReference.cache

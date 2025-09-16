@@ -1,0 +1,125 @@
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojResolveAssemblyReference.cache
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojResolveAssemblyReference.cache
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojResolveAssemblyReference.cache
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel.Site\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojResolveAssemblyReference.cache
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.Web.sdhrjt\MVC2020.WEB.Excel\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojResolveAssemblyReference.cache
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojAssemblyReference.cache
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojAssemblyReference.cache
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojAssemblyReference.cache
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojAssemblyReference.cache
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csprojAssemblyReference.cache
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+E:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.AssemblyReference.cache
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+R:\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.AssemblyReference.cache
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CopyComplete
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+D:\山东恒仁集团程序 NET\糖厂程序所有备份\GIT-TortoiseGit-VS2017\山东恒仁站点MVC完善版本  一测\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll.config
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Excel.DataContext.pdb
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.pdb
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\bin\Debug\MVC2020.Model.dll.config
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.AssemblyReference.cache
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\obj\Debug\MVC2020..4BFE4949.Up2Date
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Excel.DataContext\obj\Debug\MVC2020.Excel.DataContext.pdb

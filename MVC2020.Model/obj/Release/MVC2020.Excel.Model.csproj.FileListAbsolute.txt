@@ -1,0 +1,74 @@
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\MVC2020.Model.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\MVC2020.Model.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\BouncyCastle.Crypto.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\EntityFramework.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\LinqKit.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\NPOI.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\NPOI.OOXML.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\NPOI.OpenXml4Net.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\NPOI.OpenXmlFormats.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\BouncyCastle.Crypto.xml
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.pdb
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\bin\Release\LinqKit.xml
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\obj\Release\MVC2020.Model.dll
+E:\GIT-TortoiseGit\MVC2020.WEB.Excel\MVC2020.Model\obj\Release\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\MVC2020.Model.dll.config
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\MVC2020.Model.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\BouncyCastle.Crypto.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\EntityFramework.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\NPOI.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\NPOI.OOXML.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\NPOI.OpenXml4Net.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\NPOI.OpenXmlFormats.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\BouncyCastle.Crypto.xml
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.pdb
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\bin\Release\LinqKit.xml
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csprojAssemblyReference.cache
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.CoreCompileInputs.cache
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.CopyComplete
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\obj\Release\MVC2020.Model.dll
+E:\GIT-TortoiseGit-VS2017\【产品优化002】MVC2020.Web.HRYT\【产品优化】MVC2020.Web.HRYT\MVC2020.Web.HRYT\MVC2020.Model\obj\Release\MVC2020.Model.pdb
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\MVC2020.Model.dll.config
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\MVC2020.Model.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\MVC2020.Model.pdb
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\BouncyCastle.Crypto.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\EntityFramework.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.OOXML.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.OpenXml4Net.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.OpenXmlFormats.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\BouncyCastle.Crypto.xml
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\LinqKit.xml
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.AssemblyReference.cache
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.CoreCompileInputs.cache
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.CopyComplete
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Model.dll
+D:\山东恒仁集团程序 NET\备案审核修改\【站点mvc5】sdhrjt.net\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Model.pdb
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\MVC2020.Model.dll.config
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\MVC2020.Model.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\MVC2020.Model.pdb
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\EntityFramework.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.OOXML.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\bin\Release\LinqKit.xml
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.AssemblyReference.cache
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Excel.Model.csproj.CoreCompileInputs.cache
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020..82886D3A.Up2Date
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Model.dll
+C:\Users\zgr\Desktop\www.sdhrjt.net - mvc5\MVC2020.Model\obj\Release\MVC2020.Model.pdb
